@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color: aqua;
+color:calc(black);
+padding:10px;
+}
+header a {
+text-decoration: none;
+color:turquoise;
+margin:15px;
+}
+h1{
+    text-align: center;
+    color:yellow;
+    font-family: fantasy;
+    font-size:100px;
+    background-color: darkslategrey;
+    padding:20px;
+    border-radius: 15px;
+}
+footer{
+    background-color: blue;
+    color:white;
+    text-decoration: solid;
+    font-family:monospace;
+    font-size: large;
+    text-align: center;
+}
+.j{
+background-color: aquamarine;
+text-align: center;
+border-radius: 50px;
+border-bottom: 10px blueviolet;
+}
