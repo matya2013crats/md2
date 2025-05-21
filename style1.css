@@ -1,3 +1,16 @@
 body {
     font-family: sans-serif;
 }
+a {
+    text-decoration: none;
+    color: turquoise;
+}
+img{
+    background-color: aqua;
+    box-shadow: 7px 7px 0 0;
+    border-radius: 30px;
+}
+h1{
+    box-shadow: 7px 7px 0 0 rgb(47, 196, 196);
+    background-color: aqua;
+}
