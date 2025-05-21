@@ -1,3 +1,20 @@
 body {
     font-family: sans-serif;
 }
+footer img{
+     box-shadow: 7px 7px 0 0 rgb(18, 167, 167);
+     background-color: aqua;
+     border-radius: 30px ;
+}
+main img{
+    background-color: aqua;
+    box-shadow: 7px 7px 0 0 rgb(18, 167, 167);
+}
+main p{
+   background-color: aqua;
+   border: 3px solid rgb(18, 167, 167);
+}
+h1{
+    background-color: aquamarine;
+    border: 3px solid rgb(21, 178, 126);
+}
